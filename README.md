@@ -1,7 +1,7 @@
 <img src="./src/assets/logo.png">
 <br> <br> 
 <h1>Fusion Bites Restaurant</h1>
-Welcome to Fusion Bites Restaurant GitHub repository! This repository contains all the necessary information and resources related to the Fusion Bites Restaurant project.
+Welcome to Fusion Bites Restaurant GitHub repository! This repository contains all the necessary information and resources related to the Fusion Bites Restaurant project we built .
 
 <h1 id="#top">Table of Contents</h1>
 
